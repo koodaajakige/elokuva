@@ -1,0 +1,26 @@
+body {
+    font-family: 'Averia Serif Libre', cursive;
+	font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    background-color: rgb(179, 214, 64);
+    max-width: 40em;
+	width: 90%;
+	margin: 1em auto;
+}
+
+.idleffat {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    background-color: rgb(179, 214, 64);
+    margin: 1em auto;
+    }
+
+.nimihaku {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    background-color: rgb(179, 214, 64);
+    }
