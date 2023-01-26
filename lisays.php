@@ -16,6 +16,14 @@ $vuo = $_POST['vuo'];
 $mies = $_POST['mies'];
 $nais = $_POST['nais'];
 
+//tai: vekkuli silmukkajippo, luo muuttuja joille tulee sama nimi
+//kuin HTML-lomakkeen lomakekentillä
+//ja antaa uusille muuttujille lomakekentissä olevat arvot
+
+//foreach($_POST as $key => $value) {
+//	$$key = $value;
+//}
+
 try {
 	$yhteys = new PDO($dsn, $user, $pass, $options);
 	if (!$yhteys) { die(); }
