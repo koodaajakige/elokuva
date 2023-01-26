@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="kige_style.css">
 <h1>Kaikki leffat </h1>
-<img src='video.jpg' alt='' style="width: 450px; height: auto"/>
+<img src='video.jpg' alt='' style="width: 500px; height: auto"/>
 </head>
 <body>
 
