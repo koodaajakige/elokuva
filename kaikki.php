@@ -19,6 +19,7 @@ $options = [
 
 echo "<br>";
 echo "<br>";
+echo "<br>";
 
 try {
 	$yhteys = new PDO($dsn, $user, $pass, $options);
