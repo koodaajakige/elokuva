@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 
+<h2>Hae kaikki leffat</h2>
+<form method=POST action=kaikki.php>
+<input type=submit value='Hae'>
+</form>
+
 <h2>Hae leffa nimellä</h2>
 <form method=POST action=nimihaku.php>
 Leffa:
